@@ -2,6 +2,8 @@
 
 An embeddable PDF viewer for [Polymer](https://www.polymer-project.org/1.0/)
 
+View a live [Demo](http://jamrizzi.github.io/pdf-object/demo)
+
 
 ## Install
 
@@ -19,8 +21,6 @@ Or [download as ZIP](https://github.com/jamrizzi/pdf-object/archive/v1.0.0.zip).
 Requires [Polymer 1.0](https://www.polymer-project.org/1.0/)
 
 Read the [Docs](http://jamrizzi.github.io/pdf-object)
-
-View a live [Demo](http://jamrizzi.github.io/pdf-object)
 
 Example:
 ```html
