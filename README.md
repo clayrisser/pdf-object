@@ -54,7 +54,7 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 
 ## Changelog
 
-Take a peek at the [changelog](CHANGELOG.md)
+Take a peek at the [changelog](CHANGELOG.md).
 
 
 ## License
