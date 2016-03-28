@@ -10,7 +10,7 @@ View a live [Demo](http://jamrizzi.github.io/pdf-object/demo).
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install pdf-object --save
+$ bower install --save jamrizzi/pdf-object
 ```
 
 Or [download as ZIP](https://github.com/jamrizzi/pdf-object/archive/v1.0.0.zip).
