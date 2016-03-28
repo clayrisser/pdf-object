@@ -2,7 +2,7 @@
 
 An embeddable PDF viewer for [Polymer](https://www.polymer-project.org/1.0/)
 
-View a live [Demo](http://jamrizzi.github.io/pdf-object/demo)
+View a live [Demo](http://jamrizzi.github.io/pdf-object/demo).
 
 
 ## Install
