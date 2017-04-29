@@ -1,26 +1,30 @@
-# &lt;pdf-object&gt;
+# pdf-object
 
 An embeddable PDF viewer for [Polymer](https://www.polymer-project.org/1.0/)
 
-View a live [Demo](http://jamrizzi.github.io/pdf-object/components/pdf-object/demo).
+
+## Demo
+<!------------------------------------------------------->
+
+View a live [Demo](http://jamrizzi.github.io/pdf-object/components/pdf-object/demo)
 
 
-## Install
-
-Install the component using [Bower](http://bower.io/):
+## Installation
+<!------------------------------------------------------->
 
 ```sh
-$ bower install --save pdf-object
+bower install --save pdf-object
 ```
 
-Or [download as ZIP](https://github.com/jamrizzi/pdf-object/archive/v1.0.0.zip).
 
-
-## Usage
+## Dependencies
+<!------------------------------------------------------->
 
 Requires [Polymer 1.0](https://www.polymer-project.org/1.0/)
 
-Read the [Docs](http://jamrizzi.github.io/pdf-object/components/pdf-object)
+
+## Usage
+<!------------------------------------------------------->
 
 Example:
 ```html
@@ -37,13 +41,25 @@ Example - with data binding and custom height:
 <pdf-object file="[[pdfUrl]]" height="800px"></pdf-object>
 ```
 
+Read the [Docs](http://jamrizzi.github.io/pdf-object/components/pdf-object)
 
-## [Buy Me Coffee](http://jamrizzi.com/buy-me-coffee)
 
-A ridiculous amount of coffee was consumed in the process of building this project. [Add some fuel](//jamrizzi.com/buy-me-coffee) if you'd like to keep me going!
+## Support
+<!------------------------------------------------------->
+
+Submit an [issue](https://github.com/jamrizzi/readme/issues/new)
+
+
+## Buy Me Coffee
+<!------------------------------------------------------->
+
+A ridiculous amount of coffee was consumed in the process of building this project.
+
+[Add some fuel](https://jamrizzi.com/#!/buy-me-coffee) if you'd like to keep me going!
 
 
 ## Contributing
+<!------------------------------------------------------->
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -52,11 +68,22 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 5. Submit a pull request :D
 
 
-## Changelog
-
-Take a peek at the [changelog](CHANGELOG.md).
-
-
 ## License
+<!------------------------------------------------------->
 
-[GNU Public License v3](LICENSE)
+[MIT License](https://github.com/jamrizzi/readme/blob/master/LICENSE)
+
+[Jam Risser](https://jamrizzi.com) &copy; 2017
+
+
+## Credits
+<!------------------------------------------------------->
+
+* [Jam Risser](https://jamrizzi.com) - Author
+
+
+## Changelog
+<!------------------------------------------------------->
+
+1.0.0 (2016-03-29)
+* Initial release
