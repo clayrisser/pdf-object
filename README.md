@@ -5,6 +5,8 @@ An embeddable PDF viewer for [Polymer](https://www.polymer-project.org/1.0/)
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 
+![](assets/pdf-object.png)
+
 ## Demo
 <!------------------------------------------------------->
 
